@@ -6,3 +6,7 @@
 ###### That's all i  have to say about my college.
 
 ![Image of AIML](https://www.tutorialspoint.com/aiml/images/aiml.jpg)
+
+``` javascript
+var v = "AI";
+```
