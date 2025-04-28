@@ -10,3 +10,8 @@
 ``` javascript
 var v = "AI";
 ```
+
+
+- [ ] Intrested in AIML
+- [x] Introduced yourself?
+- [x] Made a code example?
